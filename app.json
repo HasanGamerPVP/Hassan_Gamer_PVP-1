@@ -1,0 +1,21 @@
+{
+  "name": "Hassan_Gamer_PVP-1",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "NTA5NDY5MTM1MjEwNjc2MjM0.DshnPQ.BUQFL_CdCHKpH-RPIefbuxaytPw": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
